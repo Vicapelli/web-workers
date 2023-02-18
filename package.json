@@ -1,0 +1,23 @@
+{
+  "name": "web-workers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vicapelli/web-workers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vicapelli/web-workers/issues"
+  },
+  "homepage": "https://github.com/Vicapelli/web-workers#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
